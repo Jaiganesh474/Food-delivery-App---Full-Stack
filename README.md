@@ -1,1 +1,1 @@
-MERN Stack Food Delivery App
+Food Delivery App using MERN Stack 
